@@ -1,8 +1,8 @@
 body {
     font-family: Times, serif;
     padding: 0 1.5em 3em 1.5em;
-    background-color: #f7f7f7;
-    color: #3d3c3b;
+    background-color: #f6f2ea;
+    color: #222222;
     font-size: 18px;
     text-align: justify;
     font-weight: 200;
@@ -16,7 +16,7 @@ h1,
 h2 {
     font-weight: normal;
     
-    text-align: center;
+    text-align: left;
 
     }
 
@@ -36,12 +36,12 @@ h2 {
 }
 
 a {
-    color: #55B2DA;
+    color: #447285;
     text-decoration: none;
 }
 
 a:hover {
-    border-bottom: 1px solid #55B2DA;
+    border-bottom: 1px solid #447285;
 }
 
 ol,
@@ -59,7 +59,7 @@ main {
 }
 
 .intro {
-    text-align: center;
+    text-align: left;
     border: 1px solid rgba(0,0,0,0.1);
     border-left: 0;
     border-right: 0;
