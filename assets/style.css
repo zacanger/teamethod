@@ -12,21 +12,17 @@ p {
     line-height: 1.4em;
 }
 
-h1,
-h2 {
-    font-weight: normal;
-    
-    text-align: left;
-
-    }
-
 h1 {
+    font-weight: normal;
+    text-align: center;
     font-size: 45px;
     margin-top: 1em;
     line-height: 1em;
 }
 
 h2 {
+    font-weight: normal;
+    text-align: left;
     font-size: 25px;
     margin-top: 2em;
     border: 1px solid rgba(0,0,0,0.1);
