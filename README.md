@@ -1,6 +1,6 @@
 Tea Method
 =========
 
-Documenting how to make the perfect cup of tea. Inspired by Dan Benjamin's Bacon Method: http://baconmethod.com/
+Documenting how to make the perfect cup of tea (for Yanks!). Credit is all to (Anna Debanham)[http://maban.co.uk/]. Inspired by Dan Benjamin's (Bacon Method)[http://baconmethod.com/]
 
-View site at http://teamethod.co.uk
+The original site is (here)[http://teamethod.co.uk].
